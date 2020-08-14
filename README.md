@@ -1,4 +1,4 @@
-### Hey, [Pranav Dave]("http://pranavdave.me") ✌
+### Hey, [Pranav Dave](http://pranavdave.me) ✌
 
 I work as a Software Engineer at [ClearCare Inc](https://www.clearcareonline.com/). I am based in San Francisco, CA.
 
