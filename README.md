@@ -7,7 +7,7 @@ Since 2017 I am working with Python and Django. I've had the chance to immerse m
 ### What I'm focusing on 👨‍💻
 
 Currently my team is working on building microservices by decoupling legacy monolithic design, implementing it in AWS Dynamo DB, AWS Lambda, AWS Kineses and Elasticsearch. <br /><br />
-Building microservices with Distributed System and developing new services with Hey, <a href="https://dddcommunity.org/learning-ddd/what_is_ddd/" target="_blank">Domain Driven Design</a> and <a href="https://martinfowler.com/articles/201701-event-driven.html" target="_blank">Event Driven Design</a> pattern.
+Building microservices with Distributed System and developing new services with <a href="https://dddcommunity.org/learning-ddd/what_is_ddd/" target="_blank">Domain Driven Design</a> and <a href="https://martinfowler.com/articles/201701-event-driven.html" target="_blank">Event Driven Design</a> pattern.
 
 
 ### Latest read books  😃📖
