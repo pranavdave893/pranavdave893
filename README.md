@@ -1,4 +1,4 @@
-### Hey, <a href="http://pranavdave.me" target="_blank">Pranav Dave</a> ✌
+### Hey, [Pranav Dave]("http://pranavdave.me") ✌
 
 I work as a Software Engineer at [ClearCare Inc](https://www.clearcareonline.com/). I am based in San Francisco, CA.
 
@@ -13,7 +13,7 @@ Building microservices with Distributed System and developing new services with 
 ### Latest read books  😃📖
 - <a href="https://www.oreilly.com/library/view/architecture-patterns-with/9781492052197/" target="_blank"> Architecture Patterns with Python </a>
 
-- <a href="https://www.dynamodbbook.com/" target="_blank"> The DynamoDB book </a>
+- <a href="https://www.dynamodbbook.com/" target="_blank"> The DynamoDB book </a> (Best resource for Dynamo)
 
 - <a href="https://www.amazon.com/Elite-Minds-Differently-Competitive-Maximize/dp/1259836169" target="_blank"> Elite Minds </a>
 
@@ -24,5 +24,5 @@ Building microservices with Distributed System and developing new services with 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/pranavdave893/)  
 
-😃<br/>
+### 😃<br/>
 ![image](https://github.com/pranavdave893/pranavdave893/blob/master/dino.gif)
