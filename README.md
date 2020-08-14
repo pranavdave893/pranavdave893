@@ -21,5 +21,5 @@ Building microservices with Distributed System and developing new services with 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/pranavdave893/)  
 
-Hahah <br/>
+**😃** <br/>
 ![image](https://github.com/pranavdave893/pranavdave893/blob/master/dino.gif)
